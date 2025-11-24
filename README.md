@@ -1,0 +1,2 @@
+# Task-7-Sales_Summary_python_SQLite
+Sales_Summary_python_SQLite
