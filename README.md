@@ -48,10 +48,12 @@ GROUP BY product;
 
 
 ## 📦 Generated Output Files
-File	Description
-sales_full_table.csv	Raw database records exported
-sales_summary.csv	Summary of total quantity & revenue
-sales_chart.png	Bar graph of revenue by product
+
+|File	               |        Description                 |
+|----------------------|------------------------------------|
+|sales_full_table.csv  |Raw database records exported       |   
+|sales_summary.csv     |Summary of total quantity & revenue |   
+|sales_chart.png       |Bar graph of revenue by product     |
 
 ## 🎯 Learning Outcomes
 
